@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        tools:targetApi="31"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".BusDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity> <!-- Other activities in the app -->
+
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".BusSearchActivity" />
+        <activity android:name=".AvailableBusesActivity" />
+        <activity android:name=".BusSelectionActivity" />
+        <activity android:name=".AdminLoginActivity" />
+        <activity android:name=".AdminPageActivity" />
+        <activity android:name=".AddBusActivity" />
+        <activity android:name=".DeleteBusActivity" />
+        <activity android:name=".ViewBusesActivity" />
+        <activity android:name=".AdminAvailableBusesActivity" />
+        <activity android:name=".UserAvailableBusesActivity" />
+        <activity android:name=".BookingActivity" />
+        <activity android:name=".PaymentConfirmationActivity" />
+        <activity android:name=".SettingsActivity" />
+        <activity android:name=".MyAccountActivity" />
+        <activity android:name=".AppSettingsActivity" />
+        <activity android:name=".ChangeThemeActivity" />
+        <activity android:name=".PreviousTransactionsActivity" />
+        <activity android:name=".TicketDetailsActivity"/>
+    </application>
+
+</manifest>

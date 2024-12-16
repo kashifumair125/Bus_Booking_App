@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Bus Booking App</string>
+
+    <!-- City Names (Locations) -->
+    <string-array name="city_names">
+        <item>Mumbai</item>
+        <item>Delhi</item>
+        <item>Bengaluru</item>
+        <item>Kolkata</item>
+        <item>Chennai</item>
+        <item>Hyderabad</item>
+        <item>Ahmedabad</item>
+        <item>Pune</item>
+        <item>Jaipur</item>
+        <item>Surat</item>
+    </string-array>
+    <string-array name="bus_names">
+        <item>Volvo</item>
+        <item>Scania</item>
+        <item>Mercedes</item>
+        <item>Ashok Leyland</item>
+        <item>Tata</item>
+        <item>Eicher</item>
+        <item>Kinglong</item>
+        <item>Isuzu</item>
+    </string-array>
+
+    <string-array name="bus_types">
+        <item>AC</item>
+        <item>Non-AC</item>
+        <item>AC</item>
+        <item>Non-AC</item>
+        <item>AC</item>
+        <item>Non-AC</item>
+        <item>AC</item>
+        <item>Non-AC</item>
+    </string-array>
+
+    <string-array name="departure_times">
+        <item>10:00 AM</item>
+        <item>11:00 AM</item>
+        <item>12:00 PM</item>
+        <item>01:00 PM</item>
+        <item>02:00 PM</item>
+        <item>03:00 PM</item>
+        <item>04:00 PM</item>
+        <item>05:00 PM</item>
+    </string-array>
+
+    <string-array name="arrival_times">
+        <item>02:00 PM</item>
+        <item>03:00 PM</item>
+        <item>04:00 PM</item>
+        <item>05:00 PM</item>
+        <item>06:00 PM</item>
+        <item>07:00 PM</item>
+        <item>08:00 PM</item>
+        <item>09:00 PM</item>
+    </string-array>
+
+    <string-array name="bus_sources">
+        <item>Mumbai</item>
+        <item>Delhi</item>
+        <item>Bengaluru</item>
+        <item>Kolkata</item>
+        <item>Chennai</item>
+        <item>Hyderabad</item>
+        <item>Ahmedabad</item>
+        <item>Pune</item>
+    </string-array>
+
+    <string-array name="bus_destinations">
+        <item>Delhi</item>
+        <item>Bengaluru</item>
+        <item>Kolkata</item>
+        <item>Chennai</item>
+        <item>Hyderabad</item>
+        <item>Ahmedabad</item>
+        <item>Pune</item>
+        <item>Jaipur</item>
+    </string-array>
+
+    <string name="transaction_id">Transaction ID: %s</string>
+    <string name="from">From: %s</string>
+    <string name="to">To: %s</string>
+    <string name="bus_no">Bus No: %s</string>
+    <string name="no_transaction_data">No transaction data available</string>
+</resources>

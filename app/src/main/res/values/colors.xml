@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Light Theme Colors -->
+    <color name="lightPrimary">#6200EE</color>
+    <color name="lightPrimaryVariant">#3700B3</color>
+    <color name="lightSecondary">#03DAC6</color>
+    <color name="lightBackground">#FFFFFF</color>
+    <color name="lightSurface">#FFFFFF</color>
+    <color name="lightError">#B00020</color>
+    <color name="lightOnPrimary">#FFFFFF</color>
+    <color name="lightOnSecondary">#000000</color>
+    <color name="lightOnBackground">#000000</color>
+    <color name="lightOnSurface">#000000</color>
+    <color name="lightOnError">#FFFFFF</color>
+
+    <!-- Dark Theme Colors -->
+    <color name="darkPrimary">#BB86FC</color>
+    <color name="darkPrimaryVariant">#3700B3</color>
+    <color name="darkSecondary">#03DAC6</color>
+    <color name="darkBackground">#121212</color>
+    <color name="darkSurface">#121212</color>
+    <color name="darkError">#CF6679</color>
+    <color name="darkOnPrimary">#000000</color>
+    <color name="darkOnSecondary">#000000</color>
+    <color name="darkOnBackground">#FFFFFF</color>
+    <color name="darkOnSurface">#FFFFFF</color>
+    <color name="darkOnError">#000000</color>
+
+    <!-- Premium Light Theme Colors -->
+    <color name="premiumLightPrimary">@color/lightPrimary</color>
+    <color name="premiumLightPrimaryVariant">@color/lightPrimaryVariant</color>
+    <color name="premiumLightSecondary">@color/lightSecondary</color>
+    <color name="premiumLightBackground">@color/lightBackground</color>
+    <color name="premiumLightSurface">@color/lightSurface</color>
+    <color name="premiumLightOnPrimary">@color/lightOnPrimary</color>
+    <color name="premiumLightOnSecondary">@color/lightOnSecondary</color>
+    <color name="premiumLightOnBackground">@color/lightOnBackground</color>
+    <color name="premiumLightOnSurface">@color/lightOnSurface</color>
+
+    <!-- Premium Dark Theme Colors -->
+    <color name="premiumDarkPrimary">@color/darkPrimary</color>
+    <color name="premiumDarkPrimaryVariant">@color/darkPrimaryVariant</color>
+    <color name="premiumDarkSecondary">@color/darkSecondary</color>
+    <color name="premiumDarkBackground">@color/darkBackground</color>
+    <color name="premiumDarkSurface">@color/darkSurface</color>
+    <color name="premiumDarkOnPrimary">@color/darkOnPrimary</color>
+    <color name="premiumDarkOnSecondary">@color/darkOnSecondary</color>
+    <color name="premiumDarkOnBackground">@color/darkOnBackground</color>
+    <color name="premiumDarkOnSurface">@color/darkOnSurface</color>
+
+    <color name="primaryColor">#3F51B5</color>
+    <color name="primaryDarkColor">#303F9F</color>
+    <color name="accentColor">#FF4081</color>
+    <color name="backgroundColor">#F5F5F5</color>
+    <color name="textColor">#212121</color>
+    <color name="hintColor">#757575</color>
+    <color name="buttonColor">#3F51B5</color>
+    <color name="buttonTextColor">#FFFFFF</color>
+    <color name="editTextBackgroundColor">#FFFFFF</color>
+    <color name="editTextBorderColor">#BDBDBD</color>
+
+</resources>

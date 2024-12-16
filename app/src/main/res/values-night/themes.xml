@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.BusBookingApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/darkPrimary</item>
+        <item name="colorPrimaryVariant">@color/darkPrimaryVariant</item>
+        <item name="colorOnPrimary">@color/darkOnPrimary</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/darkSecondary</item>
+        <item name="colorOnSecondary">@color/darkOnSecondary</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:colorBackground">@color/darkBackground</item>
+        <item name="colorSurface">@color/darkSurface</item>
+        <item name="colorError">@color/darkError</item>
+        <item name="colorOnBackground">@color/darkOnBackground</item>
+        <item name="colorOnSurface">@color/darkOnSurface</item>
+        <item name="colorOnError">@color/darkOnError</item>
+        <item name="android:textColor">?attr/colorOnBackground</item>
+        <item name="android:textColorPrimary">?attr/colorOnBackground</item>
+        <item name="android:textColorSecondary">?attr/colorOnBackground</item>
+        <item name="android:editTextColor">?attr/colorOnBackground</item>
+        <item name="android:textColorHint">?attr/colorOnBackground</item>
+    </style>
+</resources>

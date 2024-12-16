@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <EditText
+        android:id="@+id/etBusId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Bus ID" />
+
+    <EditText
+        android:id="@+id/etBusName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Bus Name" />
+
+    <EditText
+        android:id="@+id/etBusType"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Bus Type" />
+
+    <EditText
+        android:id="@+id/etSource"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Source" />
+
+    <EditText
+        android:id="@+id/etDestination"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Destination" />
+
+    <EditText
+        android:id="@+id/etDepartureTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Departure Time" />
+
+    <EditText
+        android:id="@+id/etArrivalTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Arrival Time" />
+
+    <Button
+        android:id="@+id/btnAddBus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add Bus" />
+</LinearLayout>

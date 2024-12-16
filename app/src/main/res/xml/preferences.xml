@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference
+        android:key="change_theme"
+        android:title="Change Theme"
+        android:summary="Customize the app's appearance" />
+    <Preference
+        android:key="my_account"
+        android:title="My Account"
+        android:summary="View and edit your account details" />
+    <Preference
+        android:key="previous_transactions"
+        android:title="Previous Transactions"
+        android:summary="View your booking history" />
+    <!-- Add other preferences here -->
+</PreferenceScreen>
