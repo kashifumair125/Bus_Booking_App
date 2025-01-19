@@ -16,6 +16,43 @@
 
 ---
 
+---
+
+## App Screenshots  
+
+### 1. User login Screen  
+![Home Screen](IMG-20250119-WA0012.jpg)  
+
+### 2. Search Bus Results  
+![Search Results](IMG-20250119-WA0011.jpg)  
+
+### 3. App Setting 
+! [App Setting ](IMG-20250119-WA0010.jpg)  
+
+### 4. Previous Transactions  
+![Previous Transactions](IMG-20250119-WA0009.jpg)  
+
+### 5. Transactions ID
+![Transactions ID](IMG-20250119-WA0008.jpg)  
+
+### 6. User Info
+![User Info](IMG-20250119-WA0007.jpg) 
+
+### 7. Bus Availablety 
+![Bus Availablety](IMG-20250119-WA0006.jpg) 
+
+### 8. Bus Details 
+![Bus Details](IMG-20250119-WA0005.jpg) 
+
+### 9. Payment Page
+![Payment Page](IMG-20250119-WA0004.jpg) 
+![Payment Page](IMG-20250119-WA0003.jpg)
+
+### 10. Successfull! 
+![Payment Successfull ](IMG-20250119-WA0001.jpg)
+
+---
+
 ## Tech Stack
 
 - **Languages**: Java (Android development).
