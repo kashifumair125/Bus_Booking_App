@@ -20,36 +20,36 @@
 
 ## App Screenshots  
 
-### 1. User login Screen  
-![Home Screen](IMG-20250119-WA0012.jpg)  
+### 1. User Login Screen  
+<img src="IMG-20250119-WA0012.jpg" alt="User Login Screen" width="400"/>
 
 ### 2. Search Bus Results  
-![Search Results](IMG-20250119-WA0011.jpg)  
+<img src="IMG-20250119-WA0011.jpg" alt="Search Bus Results" width="400"/>
 
-### 3. App Setting 
-! [App Setting ](IMG-20250119-WA0010.jpg)  
+### 3. App Settings  
+<img src="IMG-20250119-WA0010.jpg" alt="App Settings" width="400"/>
 
 ### 4. Previous Transactions  
-![Previous Transactions](IMG-20250119-WA0009.jpg)  
+<img src="IMG-20250119-WA0009.jpg" alt="Previous Transactions" width="400"/>
 
-### 5. Transactions ID
-![Transactions ID](IMG-20250119-WA0008.jpg)  
+### 5. Transaction ID  
+<img src="IMG-20250119-WA0008.jpg" alt="Transaction ID" width="400"/>
 
-### 6. User Info
-![User Info](IMG-20250119-WA0007.jpg) 
+### 6. User Info  
+<img src="IMG-20250119-WA0007.jpg" alt="User Info" width="400"/>
 
-### 7. Bus Availablety 
-![Bus Availablety](IMG-20250119-WA0006.jpg) 
+### 7. Bus Availability  
+<img src="IMG-20250119-WA0006.jpg" alt="Bus Availability" width="400"/>
 
-### 8. Bus Details 
-![Bus Details](IMG-20250119-WA0005.jpg) 
+### 8. Bus Details  
+<img src="IMG-20250119-WA0005.jpg" alt="Bus Details" width="400"/>
 
-### 9. Payment Page
-![Payment Page](IMG-20250119-WA0004.jpg) 
-![Payment Page](IMG-20250119-WA0003.jpg)
+### 9. Payment Page  
+<img src="IMG-20250119-WA0004.jpg" alt="Payment Page" width="400"/>  
+<img src="IMG-20250119-WA0003.jpg" alt="Payment Page" width="400"/>
 
-### 10. Successfull! 
-![Payment Successfull ](IMG-20250119-WA0001.jpg)
+### 10. Successful Payment!  
+<img src="IMG-20250119-WA0001.jpg" alt="Payment Successful" width="400"/>
 
 ---
 
